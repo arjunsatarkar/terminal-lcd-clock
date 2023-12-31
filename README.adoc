@@ -1,0 +1,20 @@
+= Terminal LCD Clock
+
+A simple justified time and date LCD-like display using https://github.com/pwaller/pyfiglet:[pyfiglet] and curses.
+
+image::https://scm.arjunsatarkar.net/terminal-lcd-clock/plain/example.png[Screenshot]
+
+== License
+
+MIT; see LICENSE.txt in the repository root.
+
+== Usage
+Prerequisites: https://www.python.org/downloads/[Python 3].
+
+After cloning the repo and ``cd``ing in:
+....
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+./terminal_clock.py
+....
