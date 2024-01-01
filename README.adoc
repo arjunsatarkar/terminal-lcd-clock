@@ -1,6 +1,6 @@
 = Terminal LCD Clock
 
-A simple justified time and date LCD-like display using https://github.com/pwaller/pyfiglet:[pyfiglet] and curses.
+A simple justified time and date LCD-like display using https://github.com/pwaller/pyfiglet[pyfiglet] and curses.
 
 image::https://scm.arjunsatarkar.net/terminal-lcd-clock/plain/example.png[Screenshot]
 
